@@ -1,4 +1,3 @@
----
 
 # 🚀 Static Website Hosting on AWS with CI/CD  
 **Powered by Terraform + AWS DevOps Tools**
@@ -65,3 +64,7 @@ This project showcases how to host a blazing-fast static website 🌐 using **Am
 6. 📤 Push code to GitHub — Pipeline auto-triggers & deploys site 🌐
 
 ---
+
+## 📄 License
+This project is licensed under the MIT License. Feel free to use and modify it for your own needs!
+
